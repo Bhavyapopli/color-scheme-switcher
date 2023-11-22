@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    height: 300px;
+    width: 300px;
+    margin: 35px;
+}
+#grey{
+    background-color: grey;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 25px;
+}
